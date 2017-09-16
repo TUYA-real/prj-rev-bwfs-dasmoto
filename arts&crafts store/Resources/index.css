@@ -1,0 +1,31 @@
+* {
+    font-family: Helvetica;
+}
+
+h1 {
+  background-image: url("/Users/arturgaiopinto/Desktop/Projects/arts&crafts store/Resources/Images/pattern.jpeg");
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: khaki;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+#verde {
+  background-color: mediumspringgreen;
+}
+#moldura {
+  background-color: lightcoral;
+}
+#tinta {
+  background-color: skyblue;
+}
+
+.textblue {
+  color: blue;
+  text-decoration: underline;
+  font-weight: bold;
+}
